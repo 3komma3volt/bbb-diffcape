@@ -1,0 +1,23 @@
+{
+    "name": "BBB-Diff",
+    "longName": "BBB-DiffCape",
+    "numSerial": 0,
+    "outputs": [
+        {  "pin": "P8-28" },
+        {  "pin": "P8-27" },
+        {  "pin": "P8-30" },
+        {  "pin": "P8-29" },
+        {  "pin": "P8-40" },
+        {  "pin": "P8-39" },
+        {  "pin": "P8-42" },
+        {  "pin": "P8-41" }
+    ],
+    "groups": [
+        {
+            "start": 1,
+            "count": 8
+        }
+    ],
+    "serial": [
+    ]
+}
