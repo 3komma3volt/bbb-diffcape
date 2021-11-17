@@ -38,8 +38,8 @@ Because there is no voltage regulator, the receiver is not suited for use with 1
 
 ## Distributor
 
-![bbbdistributor](https://github.com/3komma3volt/bbb-diffcape/blob/main/images/distributor.png.png)
+![bbbdistributor](https://github.com/3komma3volt/bbb-diffcape/blob/main/images/distributor.png)
 
 With the distributor power and data can be transfered with standard patch cords. A 3A 5V DC/DC converter is used to supply the beaglebone black
 
-![bbbdistributorconn](https://github.com/3komma3volt/bbb-diffcape/blob/main/images/dist.png.png)
+![bbbdistributorconn](https://github.com/3komma3volt/bbb-diffcape/blob/main/images/dist.png)
