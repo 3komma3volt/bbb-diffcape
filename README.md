@@ -33,3 +33,7 @@ The receiver is designed to support two supply variants
  - Folder "mechanical" contains a FreeCAD file for a simple hotglue mount
  
 Because there is no voltage regulator, the receiver is not suited for use with 12V pixels without modifications!
+
+## Distributor
+
+With the distributor power and data can be transfered with standard patch cords.
