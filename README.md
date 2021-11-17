@@ -25,6 +25,8 @@ The folder **bbb-diffcape** contains the [KICAD](https://www.kicad.org) schemati
 
 ## Receiver
 
+![bbbreceiver](https://github.com/3komma3volt/bbb-diffcape/blob/main/images/receiver.png)
+
 The receiver is designed to support two supply variants
 
  - Supply with 5V: Just connect power and data as in the picture and the pixel string
@@ -36,4 +38,8 @@ Because there is no voltage regulator, the receiver is not suited for use with 1
 
 ## Distributor
 
-With the distributor power and data can be transfered with standard patch cords.
+![bbbdistributor](https://github.com/3komma3volt/bbb-diffcape/blob/main/images/distributor.png.png)
+
+With the distributor power and data can be transfered with standard patch cords. A 3A 5V DC/DC converter is used to supply the beaglebone black
+
+![bbbdistributorconn](https://github.com/3komma3volt/bbb-diffcape/blob/main/images/dist.png.png)
