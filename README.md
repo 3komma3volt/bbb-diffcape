@@ -79,6 +79,7 @@ Receiver with integrated transmitter. With this PCB, you can go back from the la
 
 With the distributor power and data can be transfered with standard patch cords. A 3A 5V DC/DC converter is used to supply the beaglebone black
 
+
 > This board is untested!
 
 ![bbbdistributorconn](https://github.com/3komma3volt/bbb-diffcape/blob/main/images/dist.png)
