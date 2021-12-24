@@ -71,7 +71,7 @@ Because there is no voltage regulator, the receiver is not suited for use with 1
 
 Receiver with integrated transmitter. With this PCB, you can go back from the last pixel's output to the board and regenerate differential data. It also forwards the 24V power via the RJ45 connector.
 
-> This board is untested!
+> This board is tested and fully functional!
 
 ## Distributor
 
